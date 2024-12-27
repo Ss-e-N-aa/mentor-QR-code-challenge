@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Ss-e-N-aa/.github.io/mentor-QR-code-challengee",
+  "homepage": "https://Ss-e-N-aa.github.io/mentor-QR-code-challengee",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
